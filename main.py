@@ -4,7 +4,3 @@ def hello():
 
 def hello_2():
     print('Огромный привет всем!')
-
-
-def hello_3():
-    print('Огромный привет всем!')
